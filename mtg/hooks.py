@@ -215,3 +215,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"mtg.auth.validate"
 # ]
+required_apps = ["erpnext"]
