@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mtg *.css
+recursive-include mtg *.csv
+recursive-include mtg *.html
+recursive-include mtg *.ico
+recursive-include mtg *.js
+recursive-include mtg *.json
+recursive-include mtg *.md
+recursive-include mtg *.png
+recursive-include mtg *.py
+recursive-include mtg *.svg
+recursive-include mtg *.txt
+recursive-exclude mtg *.pyc
